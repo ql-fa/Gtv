@@ -6,7 +6,7 @@
 
   在看电视直播软件中直接输入以下任一地址即可：
   
-      https://ghp.ci/raw.githubusercontent.com/ql-fa/tv/main/itvlist.txt
+      https://ghp.ci/raw.githubusercontent.com/ql-fa/Gtv/main/itvlist.txt
   
 2.想自己获取电视直播地址的可采用以下方法：
 
